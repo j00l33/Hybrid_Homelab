@@ -1,0 +1,7 @@
+site_name: Virtualized Hybrid Cloud IT Homelab
+site_url: https://juli-Homelab.com
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
